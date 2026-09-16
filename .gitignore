@@ -1,0 +1,7 @@
+*.class
+*.jar
+.vscode/
+target/
+build
+out/
+.DS_Store
